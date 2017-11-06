@@ -1,0 +1,5 @@
+This is a test file. how to write more? 1234567890
+
+<a1>The content inside tag a1.</a1>
+
+<a2> "<"/">" are the tag limiters. Inside them is the tag name.</a2>
